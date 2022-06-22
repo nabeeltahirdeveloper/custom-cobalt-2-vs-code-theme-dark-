@@ -1,8 +1,8 @@
 # Cobalt2 Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/wesbos.theme-cobalt2.svg)](https://github.com/nabeeltahirdeveloper/cobalt2-custom)
+[![Version]](https://github.com/nabeeltahirdeveloper/cobalt2-custom)
 
-![Preview](https://raw.githubusercontent.com/nabeeltahirdeveloper/cobalt2-custom/images/ss.png)
+![Preview](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/blob/master/images/ss.png)
 
 # Installation
 
