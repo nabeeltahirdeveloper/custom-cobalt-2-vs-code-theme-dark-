@@ -1,6 +1,6 @@
 # Cobalt2 Theme for VS Code
 
-[![Version]](https://github.com/nabeeltahirdeveloper/cobalt2-custom)
+[![Version]](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-)
 
 ![Preview](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/blob/master/images/ss.png)
 
@@ -73,13 +73,11 @@ https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
 ## Put Cobalt2 in other places!
 
-- [Sublime Text](https://github.com/wesbos/cobalt2)
-- [Atom](https://github.com/wesbos/Cobalt2-atom)
-- [iTerm2](https://github.com/wesbos/Cobalt2-iterm)
-- [Hyper Term](https://github.com/wesbos/hyperterm-cobalt2-theme)
-- [Alfred](https://github.com/wesbos/Cobalt2-Alfred-Theme)
-- [Slack](https://github.com/wesbos/Cobalt2-Slack)
+- [Sublime Text](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
+- [Atom](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
+- [iTerm2](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
+- [Hyper Term](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
+- [Alfred](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
+- [Slack](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/)
 
 ## Thanks
-
-Thanks to Roberto Achar for doing much of the initial porting to VS Code.
