@@ -2,8 +2,8 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="theme-cobalt2" Version="2.2.5" Publisher="wesbos"/>
-    <DisplayName>Cobalt2 Theme Official</DisplayName>
-    <Description xml:space="preserve">🔥 Official theme by Wes Bos.</Description>
+    <DisplayName>Cobalt2 Dark Theme Official</DisplayName>
+    <Description xml:space="preserve">🔥 Official theme by NabeelTahirDeveloper</Description>
     <Tags>VSCode,Themes,theme,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>

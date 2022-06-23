@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Cobalt",
+  "name": "Cobalt custom",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
