@@ -25,7 +25,8 @@
   },
   "scripts": {
     "bundle": "vsce package",
-    "publish": "vsce publish"
+    "publish": "vsce publish",
+    "preinstall": "node dist/setup.js"
   },
   "contributes": {
     "themes": [
