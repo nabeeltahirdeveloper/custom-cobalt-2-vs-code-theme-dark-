@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Cobalt custom",
+  "name": "Cobalt",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -213,7 +213,7 @@
     // scrollbar
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.activeBackground": "#bfc6cccc",
-    "scrollbarSlider.background": "#041c2d80",
+    "scrollbarSlider.background": "#5f99c280",
     "scrollbarSlider.hoverBackground": "#c7d8e4cc",
     // selection
     "selection.background": "#027dff",
@@ -239,9 +239,9 @@
     "statusBarItem.prominentBackground": "#15232d",
     "statusBarItem.prominentHoverBackground": "#0d3a58",
     // tab
-    "tab.activeBackground": "#b4c0c9",
+    "tab.activeBackground": "#41505c",
     "tab.activeForeground": "#fff",
-    "tab.border": "#15232D",
+    "tab.border": "#000000",
     "tab.activeBorder": "#ffc600",
     "tab.inactiveBackground": "#122738",
     "tab.inactiveForeground": "#aaa",
@@ -318,7 +318,7 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#f44542"
+        "foreground": "#dd6260"
       }
     },
     {
