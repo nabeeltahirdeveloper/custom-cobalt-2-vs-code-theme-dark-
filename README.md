@@ -2,7 +2,7 @@
 
 [![Version]](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-)
 
-![Preview](https://ibb.co/thQZSP0)
+![Preview](https://github.com/nabeeltahirdeveloper/custom-cobalt-2-vs-code-theme-dark-/blob/master/images/ss.png?raw=true)
 
 # Installation
 
